@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="schoolmanager_scms:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/schoolmanager_scms_jar</output-path>
+    <root id="archive" name="schoolmanager_scms.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/schoolmanager_scms/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

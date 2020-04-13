@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scms_mapper" />
+        <module name="scms_service" />
+        <module name="scms_api" />
+        <module name="scms_common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="schoolmanager_scms" target="1.8" />
+      <module name="scms_api" target="1.8" />
+      <module name="scms_common" target="1.8" />
+      <module name="scms_mapper" target="1.8" />
+      <module name="scms_service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="schoolmanager_scms" options="-parameters" />
+      <module name="scms_api" options="-parameters" />
+      <module name="scms_common" options="-parameters" />
+      <module name="scms_mapper" options="-parameters" />
+      <module name="scms_service" options="-parameters" />
+    </option>
+  </component>
+</project>

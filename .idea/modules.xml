@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mywork.iml" filepath="$PROJECT_DIR$/mywork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schoolmanager_scms/schoolmanager_scms.iml" filepath="$PROJECT_DIR$/schoolmanager_scms/schoolmanager_scms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schoolmanager_scms/scms_api/scms_api.iml" filepath="$PROJECT_DIR$/schoolmanager_scms/scms_api/scms_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schoolmanager_scms/scms_common/scms_common.iml" filepath="$PROJECT_DIR$/schoolmanager_scms/scms_common/scms_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schoolmanager_scms/scms_mapper/scms_mapper.iml" filepath="$PROJECT_DIR$/schoolmanager_scms/scms_mapper/scms_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schoolmanager_scms/scms_service/scms_service.iml" filepath="$PROJECT_DIR$/schoolmanager_scms/scms_service/scms_service.iml" />
+    </modules>
+  </component>
+</project>
